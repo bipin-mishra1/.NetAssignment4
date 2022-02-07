@@ -1,0 +1,15 @@
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.csproj.AssemblyReference.cache
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.AssemblyInfoInputs.cache
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.AssemblyInfo.cs
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.csproj.CoreCompileInputs.cache
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\SampleClassAssignment.exe
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\SampleClassAssignment.deps.json
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\SampleClassAssignment.runtimeconfig.json
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\SampleClassAssignment.dll
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\ref\SampleClassAssignment.dll
+E:\C# practical\Assignment4\SampleClassAssignment\bin\Debug\net6.0\SampleClassAssignment.pdb
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.dll
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\ref\SampleClassAssignment.dll
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.pdb
+E:\C# practical\Assignment4\SampleClassAssignment\obj\Debug\net6.0\SampleClassAssignment.genruntimeconfig.cache

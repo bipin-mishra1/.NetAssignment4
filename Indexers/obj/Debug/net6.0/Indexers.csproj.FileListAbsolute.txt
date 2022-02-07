@@ -1,0 +1,15 @@
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\Indexers.exe
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\Indexers.deps.json
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\Indexers.dll
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\ref\Indexers.dll
+E:\C# practical\Assignment4\Indexers\bin\Debug\net6.0\Indexers.pdb
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.dll
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\ref\Indexers.dll
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.pdb
+E:\C# practical\Assignment4\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
